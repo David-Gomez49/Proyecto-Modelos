@@ -12,4 +12,4 @@ Santiago Trespalacios Bolivar, 1040570235, Ingeniería de Sistemas
 
 Preprocesado: https://youtu.be/d1g1gpphJnk
 
-Modelo Solucion: https://youtu.be/z1A-4VWeyHo
+Entrega Final: https://youtu.be/z1A-4VWeyHo
